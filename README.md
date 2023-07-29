@@ -12,7 +12,7 @@
 - JQuery
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/zainsadaqat/javascript-capstone-pokeapi/9c23e92fb394f561100659025d7f10774130146d/dist/index.html)
+[Live Demo Link](https://valru99.github.io/clipboard_jquery_valeria_29jul23/)
 
 
 
